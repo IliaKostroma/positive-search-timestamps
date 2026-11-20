@@ -1,0 +1,9 @@
+{
+  "date": "2026-11-20",
+  "stamped_at": "2026-11-20T00:11:35Z",
+  "chain_head": "0d107ea4b5161da7474779577ef1854dc27690a2a4bcd3ee77a815f44e7828e8",
+  "snapshots": 8737,
+  "last_ts": "2026-11-19T23:37:26Z",
+  "series_sha256": "fda50ea0beb47cde5f0a55675d4ee2a9e422bfc55739bb97e8b8224ddcff16ce",
+  "note": "Head of the Positive Search index history hash chain. Verify: ots verify <this file>.ots"
+}
